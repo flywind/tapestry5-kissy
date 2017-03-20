@@ -3,4 +3,6 @@
 ## Demo
 http://www.flywind.org
 
+## Kissy Document
+http://docs.kissyui.com/
 
