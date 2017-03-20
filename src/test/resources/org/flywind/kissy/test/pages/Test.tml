@@ -1,0 +1,5 @@
+<html xmlns:t="http://tapestry.apache.org/schema/tapestry_5_4.xsd"
+      xmlns:p="tapestry:parameter" xmlns:w="tapestry-library:widgets">
+      Hello
+      <p id="close-button">close</p>
+</html>

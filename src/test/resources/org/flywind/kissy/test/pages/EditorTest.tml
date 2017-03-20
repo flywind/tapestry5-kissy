@@ -1,0 +1,6 @@
+<html xmlns:t="http://tapestry.apache.org/schema/tapestry_5_4.xsd"
+      xmlns:p="tapestry:parameter">
+      <t:form>
+      <textarea t:type="textarea" t:id="kseditor" t:mixins="kissy/Editor" Editor.exclude="flash,xiami-music,video" style='width:1000px;height:400px;display:none'></textarea>
+       </t:form>
+</html>
