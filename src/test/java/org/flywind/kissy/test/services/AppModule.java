@@ -39,6 +39,7 @@ public class AppModule
         configuration.add(SymbolConstants.MINIFICATION_ENABLED, false);
         configuration.add(SymbolConstants.ASSET_URL_FULL_QUALIFIED, false);
         configuration.add(SymbolConstants.HMAC_PASSPHRASE, "testing, testing, 1... 2... 3...");
+        configuration.add(SymbolConstants.FORM_CLIENT_LOGIC_ENABLED, false);
         
       //定义jQuery模块的名称
         configuration.add(SymbolConstants.JAVASCRIPT_INFRASTRUCTURE_PROVIDER, "jquery");

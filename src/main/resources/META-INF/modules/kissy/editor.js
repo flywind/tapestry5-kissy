@@ -145,7 +145,7 @@ KISSY.add("editor/utils", ["node", "./base"], function(S, require) {
     	if(bPath.lastIndexOf("modules.gz/")){
     		bPath = bPath.substring(0,bPath.lastIndexOf("modules.gz/"));
     	}
-    	return bPath + "assets/modules.path/zc4cb0144/kissy/editor/" + url
+    	return ;
     }
     if(url.indexOf("spacer.gif") > 0){
     	if(bPath.lastIndexOf("modules.gz/")){

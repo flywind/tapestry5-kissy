@@ -2,4 +2,9 @@
       xmlns:p="tapestry:parameter" xmlns:w="tapestry-library:widgets">
       Hello
       <p id="close-button">close</p>
+      <t:form t:id="ajaxForm">
+      	<t:textfield t:id="name" t:validate="required,maxLength=1"/>
+      	<t:textfield t:id="name2" t:validate="required"/>
+      	<t:submit value="submit"/>
+      </t:form>
 </html>

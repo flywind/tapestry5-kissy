@@ -12,7 +12,7 @@ import org.apache.tapestry5.json.JSONObject;
 import org.apache.tapestry5.services.javascript.JavaScriptSupport;
 import org.flywind.kissy.utils.KissyUtil;
 
-@Import(stylesheet={"${kissy.path}/css/dpl/base.css","${kissy.path}/editor/theme/cool/editor.css"})
+@Import(stylesheet={"${kissy.path}/css/dpl/base.css","${kissy.path}/editor/theme/editor-iframe.css","${kissy.path}/editor/theme/cool/editor.css"})
 public class Editor {
 
 	@Parameter
