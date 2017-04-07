@@ -188,33 +188,6 @@ pre {
   margin: 1em 0;
 }
 /*
- * 1. Corrects font family set oddly in IE6, S4/5, Chrome.
- * en.wikipedia.org/wiki/User:Davidgothberg/Test59
- *    ie: courier new others monospace
- * 2. other browsers other than firefox is not 16px
- */
-code,
-kbd,
-pre,
-samp {
-  font-family: monospace, serif;
-  /* 1 */
-
-  font-size: 1em;
-  /* 2 */
-
-}
-/*
- * Improves readability of pre-formatted text in all browsers.
- */
-pre {
-  white-space: pre;
-  white-space: pre-wrap;
-  /*ie*/
-
-  word-wrap: break-word;
-}
-/*
  * Addresses CSS quotes not supported in IE6/7.
  */
 q {
